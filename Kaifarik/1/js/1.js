@@ -2,7 +2,7 @@
 
 const myName = "Андрей"
 const mySurname = "Давыдов"
-let myFavoriteDrink = "Водка"
+let myFavoriteDrink = "Вода"
 let myFavoriteAnimal = "Собака"
 let myFavoriteProgrammingLanguage = "Rust"
 console.log(myName)
